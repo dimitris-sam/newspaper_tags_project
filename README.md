@@ -34,4 +34,6 @@ Format: newspaperName_tag_Wdate.csv
 
 Example: Documento_δημοσκόπηση_Wdate.csv
 
-These files are intended to be analyzed in tools like Excel, Python/Pandas, or Tableau for pattern discovery. (I used Tableau)
+These files are intended to be analyzed in tools like Excel, Python/Pandas, or Tableau for pattern discovery. (I use Tableau).
+
+Results in Tableau are not yet published since the project is still in progress
